@@ -1,66 +1,62 @@
-```
-dave@persaud---------------------------------------------
-                                                 
-                            ..:::-::.::                              
-                           =+***####***+=                            
-                         =##*+*##*#*+**##*+                          
-                       -*#%##++**-=##*+*###*:                        
-                      +##%#*-.       .-+#####=                       
-                    .+#%##*:.           -*####:                      
-                    =*#%%#:               -####:                     
-                   :+*#%%=.                :##*                      
-                   :+*%%#=.                .+#*.                     
-                   =#*#%%*=-==+=.    .::.::-=*=                      
-                  -:***%+:.- +-..      -+ -.:* .                     
-                  :=##*#-  .:    .      ..  .+-.                     
-                  :+*%##=                   .=-                      
-                  :*##*+*.      .           -.                       
-                  .+**#*#=.     .          :*##-                     
-                   =+*#%#+-.              :-##+*-                    
-                  =####%##--  .:.. ..::. ::*##*#+                    
-                 :**####%%#-:.  .....  ..:+%#####                    
-                  -*####%%#==:.        :---*##*#:                    
-                .+*****+#***-+-:     .:-.:- ##**=                    
-                    *++=:*+ =..:=:::-:.  . .-#*-:                    
-                 +##**+. :                  :#.+++*                  
-            .***#####*+:                     :  +##%#=               
-         *###########*++                       *########             
-      *#############*++         .-+++         +*###%#####**          
-   .###%####%######*++           +=++          *###%%###%####.       
-.:##%%%#%######%#::+:            +=+            ####%%#%%######     .
-**#%%%%##########%*              *+=             :*%####*%####%#.. ..
-###%#%%##########**#+           =*+*            =#**###%*##*##%%##...
-##%%#%#############*##+         =#+#+         =*******########%##%-..
-##%%%%##%##########*##**-      +*%+##        #********##%####%##%%%..
-##%%%%#%%##############**+     *%#*#%#     ******##***#%#%###%##%%#%:
-#%%%%%#%%########%######**#+ :+##**%%% . +***#+*##==-*###%###@%#@%#%:
+# Dave Persaud
 
----------------------------------------------------------
- OS: ..................... Linux Mint
- Uptime: ................. 21 years, 7 months, 5 days
- Host: ................... Self Hosted
- Kernel: ................. None yet
- IDE: .................... VS Code, IntelliJ IDEA
+**Software Engineering Student @ University of Guelph**  
+Guelph, Ontario, Canada  
 
- Languages.Programming: ... Java, Python, C, C++, JavaScript
- Languages.Computer: ..... HTML, CSS, JSON, LaTeX
- Languages.Real: ......... English
+---
 
- Hobbies.Software: ........ Unknown
- Hobbies.Hardware: ........ Unknown
+## About Me
 
----------------------------------------------------------
- Contact
- Email.Personal: .......... davanannp@gmail.com
- LinkedIn: ................ https://www.linkedin.com/in/davanann/
- Discord: ................ toasteddave
+I’m **Dave Persaud**, a 21-year-old software developer currently in my **second year** at the **University of Guelph**, studying Software Engineering.  
 
----------------------------------------------------------
- GitHub Stats
- Repos: ................... 1
- Contributed: ............. 13
- Stars: ................... 0
- Commits: ................. 0
- Lines of Code on GitHub: .. 0
----------------------------------------------------------
-```
+I’m passionate about **software development** and **cybersecurity**, and I enjoy learning how systems work — and how to make them more secure. While most of my experience comes from coursework and personal projects, I’m a **fast learner** who loves solving problems and building tools that make a difference.  
+
+I’m currently **seeking internship or junior developer opportunities** to gain hands-on experience and grow as a developer.
+
+---
+
+## Technical Interests
+
+- **Software Development:** Building efficient, maintainable, and user-focused applications.  
+- **Cybersecurity:** Exploring vulnerabilities, network security, and ethical hacking.  
+- **Automation & Tooling:** Writing scripts to streamline workflows and improve productivity.
+
+---
+
+## Skills
+
+**Languages**  
+- Python  
+- Java  
+- C / C++  
+- JavaScript
+
+**Tools & Technologies**  
+- Git & GitHub  
+- Linux / Bash  
+- VS Code, IntelliJ  
+
+---
+
+## Projects
+
+-
+
+---
+
+## Goals
+
+- Secure a **co-op / internship** or **junior developer role**.  
+- Deepen my understanding of **web development** and **cybersecurity tools**.  
+- Contribute to **open-source projects** and collaborate with other developers.  
+
+---
+
+## Contact
+
+**Email:** [davanannp@gmail.com](mailto:davanannp@gmail)  
+**LinkedIn:** [https://www.linkedin.com/in/davanann/](https://www.linkedin.com/in/davanann/)  
+**GitHub:** [github.com/davanann](https://github.com/davanann)
+
+---
+
