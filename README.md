@@ -9,7 +9,7 @@ Guelph, Ontario, Canada
 
 I’m **Dave Persaud**, a 21-year-old software developer currently in my **second year** at the **University of Guelph**, studying Software Engineering.  
 
-I’m passionate about **software development** and **cybersecurity**, and I enjoy learning how systems work — and how to make them more secure. While most of my experience comes from coursework and personal projects, I’m a **fast learner** who loves solving problems and building tools that make a difference.  
+I’m passionate about **software development** and **cybersecurity**, and I enjoy learning how tech works and how to make stuff more secure/private. While most of my experience comes from coursework and personal projects, I’m a **fast learner** who loves solving problems and building tools that make a difference.  
 
 I’m currently **seeking internship or junior developer opportunities** to gain hands-on experience and grow as a developer.
 
