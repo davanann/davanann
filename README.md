@@ -73,5 +73,3 @@ I consider myself a fast learner who thrives on solving logical puzzles and buil
 **Email:** [davanannp@gmail.com](mailto:davanannp@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/davanann](https://www.linkedin.com/in/davanann/)
-
-**GitHub:** [github.com/davanannp](https://www.google.com/search?q=https://github.com/davanannp)
