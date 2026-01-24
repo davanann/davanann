@@ -1,13 +1,16 @@
+```markdown
 # Dave Persaud
 
-  _____                      _____                          _ 
- |  __ \                    |  __ \                        | |
- | |  | | __ ___   _____    | |__) |__ _ __ ___  __ _ _   _| |
- | |  | |/ _` \ \ / / _ \   |  ___/ _ \ '__/ __|/ _` | | | | |
- | |__| | (_| |\ V /  __/   | |  |  __/ |  \__ \ (_| | |_| | |
- |_____/ \__,_| \_/ \___|   |_|   \___|_|  |___/\__,_|\__,_|_|
+```text
+  ____                      _____                                    _ 
+ |  _ \  __ ___   _____    |  __ \ ___ _ __ ___  __ _ _   _  __| |
+ | | | |/ _` \ \ / / _ \   | |__) / _ \ '__/ __|/ _` | | | |/ _` |
+ | |_| | (_| |\ V /  __/   |  ___/  __/ |  \__ \ (_| | |_| | (_| |
+ |____/ \__,_| \_/ \___|   |_|    \___|_|  |___/\__,_|\__,_|\__,_|
 
-**Software Engineering Student @ University of Guelph** Guelph, Ontario, Canada  
+```
+
+**Software Engineering Student @ University of Guelph** | Guelph, Ontario, Canada
 
 ---
 
@@ -35,6 +38,7 @@ I consider myself a fast learner who thrives on solving logical puzzles and buil
 **Languages** * C / C++, Python, Java, JavaScript, R, Assembly, HTML/CSS, LaTeX
 
 **Tools & Technologies** * Git & GitHub/GitLab, Linux (Bash), Docker, AWS
+
 * VS Code, IntelliJ, Valgrind, Makefiles
 * **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Check (C Unit Testing)
 
@@ -43,11 +47,13 @@ I consider myself a fast learner who thrives on solving logical puzzles and buil
 ## Selected Projects
 
 ### Job Vacancy Data Analysis | Python, CSV, Seaborn
+
 * Developed a data extraction pipeline to parse Statistics Canada datasets, filtering records by region and education.
 * Engineered custom visualizations to identify 5-year trends and growth sectors in the job market.
 * Utilized Linux-based bash scripting to automate data handling and ensure modularity.
 
 ### easyML – C-based Machine Learning | C, Valgrind, Linux
+
 * Implemented a k-nearest neighbors (k-NN) classifier from scratch in C for animal classification.
 * Designed modular functions for high-speed file parsing using C Structs and custom distance metrics.
 * Managed low-level memory control and verified stability using Valgrind.
@@ -63,8 +69,9 @@ I consider myself a fast learner who thrives on solving logical puzzles and buil
 ---
 
 ## Contact
-**Email:** [davanannp@gmail.com](mailto:davanannp@gmail.com)  
-**LinkedIn:** [linkedin.com/in/davanann](https://www.linkedin.com/in/davanann/)  
-**GitHub:** [github.com/davanannp](https://github.com/davanannp)
 
----
+**Email:** [davanannp@gmail.com](mailto:davanannp@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/davanann](https://www.linkedin.com/in/davanann/)
+
+**GitHub:** [github.com/davanannp](https://www.google.com/search?q=https://github.com/davanannp)
