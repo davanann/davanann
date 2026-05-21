@@ -10,13 +10,13 @@
 
 ```
 
-**Software Engineering Student @ University of Guelph** | Guelph, Ontario, Canada
+**Computer Science Student @ University of Guelph** | Guelph, Ontario, Canada
 
 ---
 
 ## About Me
 
-I am a second-year **Software Engineering** student and **Mathematics** minor at the University of Guelph. I am driven by a curiosity for how complex systems function, a passion for data-driven insights, and a commitment to making applications more secure and efficient.
+I am a second-year **Computer Science** student and **Mathematics** minor at the University of Guelph. I am driven by a curiosity for how complex systems function, a passion for data-driven insights, and a commitment to making applications more secure and efficient.
 
 While my foundational expertise is in **C** and low-level systems, I am equally comfortable building modern, full-stack applications with **Java**, **Python**, and **JavaScript**. I leverage my mathematical background to solve logical puzzles, utilizing **R** and Python for statistical analysis. Currently, I am expanding my data skillset through the **Google Data Analytics Professional Certification** and looking for **internship or junior developer opportunities** where I can apply my problem-solving skills to real-world challenges.
 
