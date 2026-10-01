@@ -12,76 +12,82 @@
 
 ## About Me
 
-Third-year **Computer Science** student with a **Mathematics** minor at the University of Guelph, graduating April 2028. I build things outside of class because I enjoy it — from deploying enterprise-style security environments to competing in CTF competitions and shipping a full-stack AI application at a hackathon in under 48 hours.
+Third-year **Computer Science** student with a **Mathematics** minor at the University of Guelph, graduating April 2028. My focus has shifted from IT and security toward **mathematics**: I'm preparing for a **math master's (MMath / MSc) starting Fall 2028**, with interests in combinatorics, optimization, analysis and cryptography.
 
-My focus has shifted toward **IT infrastructure, cybersecurity, and systems administration**. I am currently pursuing my **CompTIA Security+** certification and actively seeking co-op or internship opportunities in IT support, security operations, or systems work.
+Outside class I still build things because I enjoy it, from enterprise-style security labs and CTF competitions to a full-stack AI application shipped at a hackathon in under 48 hours. These days most of that energy goes into proofs, upper-year math and an undergraduate research project.
 
 ---
 
-## Technical Interests
+## Current Focus
 
-- **Cybersecurity & Detection Engineering:** SIEM deployment, log analysis, threat monitoring, and CTF competition
-- **IT Infrastructure:** Windows Server administration, Active Directory, virtualization, and network configuration
-- **Cloud & DevOps:** AWS serverless architecture, IAM, authentication flows, and infrastructure as code
-- **Scripting & Automation:** Python and Bash pipelines for data processing and system administration
+- **Upper-year math:** Abstract Algebra, Advanced Calculus, Complex Analysis, Real Analysis, Linear Algebra II, Advanced Analysis (Hilbert spaces)
+- **Undergraduate research:** Advanced Research Project in Mathematics (Fall 2027)
+- **Self-study:** point-set topology, linear programming & duality, graph theory, number theory
+- **Theory-side CS:** Theory of Computation, Algorithms, Cryptography, Compilers
+
+---
+
+## Research & Technical Interests
+
+- **Combinatorics & Optimization:** graph theory, linear and integer programming, network flows
+- **Analysis:** real and complex analysis, metric spaces, functional analysis
+- **Algebra & Number Theory:** groups, rings, and the number theory behind modern cryptography
+- **Mathematical Computing:** numerical methods, algorithms, and writing math in LaTeX / TikZ
+- **Security (background):** SIEM deployment, log analysis, and CTF competition
 
 ---
 
 ## Skills
 
-**Languages & Scripting**
-- Python, Bash, C, C++, Java, JavaScript
+**Mathematics**
+- Proof writing, linear algebra, calculus & differential equations, abstract algebra, discrete math, numerical methods, statistics
 
-**Security & IT**
-- Wazuh SIEM, Wireshark, Burp Suite, Kali Linux, log analysis, alert triage, incident documentation
+**Languages & Tools**
+- Python, C, C++, Java, JavaScript, Bash, SQL
+- LaTeX, TikZ/PGFPlots, Obsidian, Git, Neovim
 
 **Systems & Infrastructure**
-- Linux (Arch, Ubuntu, Debian), Windows 10/11, Windows Server 2022, macOS
-- KVM/QEMU, VirtualBox, Docker
-- Active Directory, Microsoft 365, DNS, DHCP, TCP/IP, VPN, subnetting
+- Linux (Arch, Ubuntu, Debian), Windows Server 2022, KVM/QEMU, VirtualBox, Docker
+- Active Directory, DNS, DHCP, TCP/IP, subnetting
+- AWS (Amplify, Lambda, DynamoDB, Cognito)
 
-**Cloud & DevOps**
-- AWS (Amplify, Lambda, DynamoDB, Cognito), Git, GitLab
+**Security**
+- Wazuh SIEM, Wireshark, Burp Suite, Kali Linux, log analysis, alert triage
 
 ---
 
 ## Selected Projects
 
-### Wazuh SIEM Detection Lab | Wazuh, Ubuntu, Windows Server 2022, KVM/QEMU
-- Deployed a Wazuh SIEM monitoring server on Ubuntu with a Windows Server 2022 agent over KVM/QEMU virtualization, simulating an enterprise security environment
-- Configured security event monitoring, triaged alerts via JSON log analysis, filtered false positives, and managed user accounts and access controls
-- Diagnosed and resolved VM network connectivity failures through systematic root cause analysis; documented all configurations in reproducible knowledgebase-style articles
-
-### LangLand — 3D Language Learning Game | AWS, FastAPI, Three.js, Gemini 2.0 | **2nd Place — GDSC Hackathon 2026**
+### LangLand: 3D Language Learning Game | AWS, FastAPI, Three.js, Gemini 2.0 | **2nd Place, GDSC Hackathon 2026**
 - Architected a serverless AWS backend (Amplify, Cognito, DynamoDB, Lambda) under a 48-hour deadline; configured IAM permissions, API routing, and cross-service authentication flows
-- Integrated Gemini 2.0 AI for real-time NPC dialogue and evaluated data handling, permission scopes, and API behaviour for secure AI integration
+- Integrated Gemini 2.0 AI for real-time NPC dialogue with attention to data handling and permission scopes
 - Adapted workflow after complete hardware failure mid-competition without losing progress
 
+### Wazuh SIEM Detection Lab | Wazuh, Ubuntu, Windows Server 2022, KVM/QEMU
+- Deployed a Wazuh SIEM server on Ubuntu with a Windows Server 2022 agent over KVM/QEMU, simulating an enterprise security environment
+- Triaged alerts via JSON log analysis, filtered false positives, and documented configurations as reproducible knowledgebase articles
+
 ### Job Vacancy Data Analysis | Python, SQL, Seaborn, Matplotlib, Bash
-- Built an end-to-end Python and Bash pipeline to ingest, clean, and query Statistics Canada CSV datasets using SQL-style filtering
-- Produced Power BI-style dashboards visualizing 5-year industry vacancy trends for data-driven reporting workflows
+- Built an end-to-end Python and Bash pipeline to ingest, clean, and query Statistics Canada CSV datasets
+- Visualized 5-year industry vacancy trends with dashboards for data-driven reporting
+
+### CS & Math Notes | Obsidian, Markdown, LaTeX, TikZ
+- Structured study notes for every CS and math course, with LaTeX derivations, TikZ diagrams, and a degree and grad-school plan
 
 ---
 
-## Certifications
+## CTF & Community
 
-- **CompTIA Security+** — In Progress (Expected August 2026)
-
----
-
-## CTF & Security
-
-- **3rd Place — GCSS gryphCTF 2026** through the Guelph Cyber Security Society
-- Competed in network analysis, reverse engineering, and vulnerability exploitation challenges
-- Active member of the Guelph Cyber Security Society and Cloud Computing Club
+- **3rd Place, GCSS gryphCTF 2026** (Guelph Cyber Security Society): network analysis, reverse engineering, and exploitation challenges
+- Member of the Guelph Cyber Security Society and Cloud Computing Club
 
 ---
 
 ## Goals
 
-- Secure a **Fall 2026 co-op or internship** in IT support, security operations, or systems administration
-- Continue building hands-on security and infrastructure skills toward a career in detection engineering or SOC work
-- Complete **CompTIA Security+** and pursue further certifications in networking and cloud security
+- Earn strong grades in upper-year math and complete an **undergraduate research project in mathematics**
+- Apply to **math graduate programs for Fall 2028**: University of Waterloo (MMath) and University of Toronto (MSc Mathematics)
+- Build a foundation in topology, combinatorics, and optimization beyond the course list through self-study
 
 ---
 
